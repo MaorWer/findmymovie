@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "fullName": "Christina HodsonJohn",
+    "position": "writer"
+  },
+  {
+    "id": 2,
+    "fullName": "Francis DaleyJonathan",
+    "position": "writer"
+  },
+  {
+    "id": 3,
+    "fullName": "Goldstein Christina",
+    "position": "writer"
+  },
+  {
+    "id": 4,
+    "fullName": "Jez Butterworth",
+    "position": "writer"
+  },
+  {
+    "id": 5,
+    "fullName": "John-Henry Butterworth",
+    "position": "writer"
+  },
+  {
+    "id": 6,
+    "fullName": "James Mangold",
+    "position": "writer"
+  },
+  {
+    "id": 7,
+    "fullName": "Ezra MillerMichael",
+    "position": "writer"
+  },
+  {
+    "id": 8,
+    "fullName": "KeatonSasha Calle",
+    "position": "writer"
+  },
+  {
+    "id": 9,
+    "fullName": "Rob Savage",
+    "position": "writer"
+  },
+  {
+    "id": 10,
+    "fullName": "Mark Heyman",
+    "position": "writer"
+  },
+  {
+    "id": 11,
+    "fullName": "Scott Beck",
+    "position": "writer"
+  },
+  {
+    "id": 12,
+    "fullName": "James Mangold",
+    "position": "director"
+  },
+  {
+    "id": 13,
+    "fullName": "Andy Muschietti",
+    "position": "director"
+  },
+  {
+    "id": 14,
+    "fullName": "David Koepp",
+    "position": "director"
+  },
+  {
+    "id": 15,
+    "fullName": "James Mangold",
+    "position": "director"
+  },
+  {
+    "id": 16,
+    "fullName": "KeatonSasha Calle",
+    "position": "director"
+  },
+  {
+    "id": 17,
+    "fullName": "Bryan Woods",
+    "position": "director"
+  },
+  {
+    "id": 18,
+    "fullName": "Ben Wheatley",
+    "position": "director"
+  },
+  {
+    "id": 19,
+    "fullName": "Dean Georgaris",
+    "position": "director"
+  },
+  {
+    "id": 20,
+    "fullName": "Erich Hoeber",
+    "position": "star"
+  },
+  {
+    "id": 21,
+    "fullName": "Jon Hoeber",
+    "position": "star"
+  },
+  {
+    "id": 22,
+    "fullName": "André Øvredal",
+    "position": "star"
+  },
+  {
+    "id": 23,
+    "fullName": "Bragi Schut",
+    "position": "star"
+  },
+  {
+    "id": 24,
+    "fullName": "Zak Olkewicz",
+    "position": "star"
+  },
+  {
+    "id": 25,
+    "fullName": "Corey Hawkins",
+    "position": "star"
+  },
+  {
+    "id": 26,
+    "fullName": "Aisling Franciosi",
+    "position": "star"
+  },
+  {
+    "id": 27,
+    "fullName": "Liam Cunningham",
+    "position": "star"
+  },
+  {
+    "id": 28,
+    "fullName": "David Dastmalchian",
+    "position": "star"
+  },
+  {
+    "id": 29,
+    "fullName": "Chris Walley",
+    "position": "star"
+  },
+  {
+    "id": 30,
+    "fullName": "Jon Jon Briones",
+    "position": "star"
+  },
+  {
+    "id": 31,
+    "fullName": "Stefan Kapičić",
+    "position": "star"
+  },
+  {
+    "id": 32,
+    "fullName": "Martin Furulund",
+    "position": "star"
+  },
+  {
+    "id": 33,
+    "fullName": "Nikolai Nikolaeff",
+    "position": "star"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Indiana Jones and the Dial of Destiny",
+    "description": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+    "category": "action",
+    "year": 2023,
+    "duration": 155,
+    "imageId": "image_1693392142.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Boogeyman",
+    "description": "Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it’s too late.",
+    "category": "horror",
+    "year": 2023,
+    "duration": 99,
+    "imageId": "image_1693391895.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Meg 2: The Trench",
+    "description": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+    "category": "action",
+    "year": 2023,
+    "duration": 116,
+    "imageId": "image_1693392123.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Last Voyage of the Demeter",
+    "description": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship.",
+    "category": "horror",
+    "year": 2023,
+    "duration": 119,
+    "imageId": "image_1693392346.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dampyr",
+    "description": "Haunted by nightmares, con artist Harlan Draka wanders through the war-torn Balkan countryside, making money out of ridding superstitious villagers of imaginary monsters. But after being hired by soldiers who are under attack by actual vampires, Harlan discovers the truth: he's a Dampyr, half-human and half-vampire. While trying to stop a Master of the Night and his undead army, Harlan will have to learn to manage his newfound powers and uncover his origins.",
+    "category": "action",
+    "year": 2022,
+    "duration": 109,
+    "imageId": "image_1693392435.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The 'Human' Factor",
+    "description": "After his family is brutally murdered for an unknown reason, a computer engineer sets out to find those responsible.",
+    "category": "action",
+    "year": 1975,
+    "duration": 95,
+    "imageId": "image_1693392690.jpg"
+  },
+  {
+    "id": 7,
+    "title": ".hack//G.U. Trilogy",
+    "description": "Haseo is on a mission to track down Tri-Edge, the devious PK responsible for leaving one of his closest friends in a coma.",
+    "category": "action",
+    "year": 2007,
+    "duration": 93,
+    "imageId": "image_169339267.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Demonic Lord and the Virtuous Cultivator",
+    "description": "She was taken in by a cultivation master after her family was slaughtered. Vowing unconditional loyalty to her newfound teacher and savior, she followers her every step into adulthood. Can such reverence save her when a demonic cultivator comes into the scene and shakes up the entire villa?",
+    "category": "action",
+    "year": 2021,
+    "duration": 83,
+    "imageId": "image_169339268.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Duel to the Death",
+    "description": "This Victorian duel between knife-wielding women was taken from an existing stage production, thought to be the Drury Lane theatre melodrama 'Women and Wine'. The actresses are believed to be Edith Blanche and Beatrice Homer.",
+    "category": "action",
+    "year": 1898,
+    "duration": 92,
+    "imageId": "image_169339269.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Heart of Stone",
+    "description": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable — and dangerous — weapon.",
+    "category": "action",
+    "year": 2023,
+    "duration": 124,
+    "imageId": "image_1693392610.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Remember",
+    "description": "Pil-ju, an Alzheimer's patient in his 80s, who lost all his family during the Japanese colonial era, and devotes his lifelong revenge before his memories disappear, and a young man in his 20s who helps him.",
+    "category": "action",
+    "year": 2022,
+    "duration": 128,
+    "imageId": "image_1693392611.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Cobweb",
+    "description": "Eight year old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall—one that his parents insist is all in his imagination. As Peter's fear intensifies, he believes that his parents could be hiding a terrible, dangerous secret and questions their trust.",
+    "category": "horror",
+    "year": 2023,
+    "duration": 88,
+    "imageId": "image_1693392612.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Flood",
+    "description": "A horde of giant hungry alligators is unleashed on a group of in-transit prisoners and their guards after a massive hurricane floods Louisiana.",
+    "category": "horror",
+    "year": 2023,
+    "duration": 99,
+    "imageId": "image_1693392613.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Talk to Me",
+    "description": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+    "category": "horror",
+    "year": 2023,
+    "duration": 95,
+    "imageId": "image_1693392614.jpg"
+  },
+  {
+    "id": 15,
+    "title": "2 Fast 2 Furious",
+    "description": "It's a major double-cross when former police officer Brian O'Conner teams up with his ex-con buddy Roman Pearce to transport a shipment of 'dirty' money for shady Miami-based import-export dealer Carter Verone. But the guys are actually working with undercover agent Monica Fuentes to bring Verone down.",
+    "category": "action",
+    "year": 2003,
+    "duration": 108,
+    "imageId": "image_1693392615.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Battle at Elderbush Gulch",
+    "description": "Two young girls are sent away to live with their uncle, which sets off a chain of events resulting in an Indian attack on the town.",
+    "category": "action",
+    "year": 1913,
+    "duration": 89,
+    "imageId": "image_1693392616.jpg"
+  },
+  {
+    "id": 17,
+    "title": "GANTZ:O",
+    "description": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
+    "category": "action",
+    "year": 2016,
+    "duration": 95,
+    "imageId": "image_1693392617.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Meg",
+    "description": "A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.",
+    "category": "horror",
+    "year": 2018,
+    "duration": 113,
+    "imageId": "image_1693392618.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Naked Poison",
+    "description": "Nerdy office worker Min gets his kicks taking sneaky snaps of his female co-workers, spying on his neighbours having rough sex, and coating himself in oil before bashing one out to internet porn; things change, however, when he mixes ingredients from his late grandfather's medicine shop to create the ultimate aphrodisiac/date-rape drug, which he uses to satisfy both his sexual urges and his desire for revenge on office bullies Winnie and Peter.",
+    "category": "horror",
+    "year": 2000,
+    "duration": 88,
+    "imageId": "image_1693392619.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Conjuring",
+    "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+    "category": "horror",
+    "year": 2013,
+    "duration": 112,
+    "imageId": "image_1693392620.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Slither",
+    "description": "A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.",
+    "category": "horror",
+    "year": 2006,
+    "duration": 95,
+    "imageId": "image_1693392621.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Jeepers Creepers 3",
+    "description": "Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.",
+    "category": "horror",
+    "year": 2017,
+    "duration": 100,
+    "imageId": "image_1693392622.jpg"
+  },
+  {
+    "id": 23,
+    "title": "A Haunted House 2",
+    "description": "After exorcising the demons of his ex-, Malcolm starts afresh with his new girlfriend and her two children. After moving into their dream home, Malcolm is once again plagued by bizarre paranormal events.",
+    "category": "horror",
+    "year": 2014,
+    "duration": 87,
+    "imageId": "image_1693392623.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Wrong Turn",
+    "description": "Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.",
+    "category": "horror",
+    "year": 2021,
+    "duration": 110,
+    "imageId": "image_1693392624.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Day Shift",
+    "description": "An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.",
+    "category": "horror",
+    "year": 2022,
+    "duration": 113,
+    "imageId": "image_1693392625.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Bride of Chucky",
+    "description": "After being cut apart by the police, killer doll Chucky is resurrected by Tiffany, an ex-girlfriend of the serial murderer whose soul is inside the toy. Following an argument, Chucky kills Tiffany and transfers her soul into a bride doll. To find the magical amulet that can restore them both to human form, Chucky and Tiffany arrange to be driven to New Jersey by Jesse and Jade, who are unaware that their cargo is alive.",
+    "category": "horror",
+    "year": 1998,
+    "duration": 89,
+    "imageId": "image_1693392626.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Hidden",
+    "description": "A family takes refuge in a fallout shelter to avoid a dangerous outbreak.",
+    "category": "horror",
+    "year": 2015,
+    "duration": 83,
+    "imageId": "image_1693392627.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Strays",
+    "description": "When Reggie is abandoned on the mean city streets by his lowlife owner, Doug, Reggie is certain that his beloved owner would never leave him on purpose. But once Reggie falls in with a fast-talking, foul-mouthed stray who loves his freedom and believes that owners are for suckers, Reggie finally realizes he was in a toxic relationship and begins to see Doug for the heartless sleazeball that he is.",
+    "category": "comedy",
+    "year": 2023,
+    "duration": 93,
+    "imageId": "image_1693392628.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Puss in Boots: The Last Wish",
+    "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "category": "comedy",
+    "year": 2022,
+    "duration": 103,
+    "imageId": "image_1693392629.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Sex and Zen II",
+    "description": "Sai Moon-Kin is a rich man who idolizes Lawrence Ng's character in the original Sex and Zen, and works hard to please as many women as he possibly can. When marrying off his retarded son, he finds his son's new wife pretty hot, so he takes her for his own, not knowing that she is the evil Mirage Woman, who knows 'sucking' magic that's pretty nasty. Tsui's daughter, who dresses like a man and wears chastity belt for the main part of the film, and the righteous Iron Man try to stop Mirage Woman before it's too late, which means that she'll have free rein to 'suck' anyone she wishes.",
+    "category": "comedy",
+    "year": 1996,
+    "duration": 87,
+    "imageId": "image_1693392630.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Coco",
+    "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "category": "comedy",
+    "year": 2017,
+    "duration": 105,
+    "imageId": "image_1693392631.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Shrek",
+    "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "category": "comedy",
+    "year": 2001,
+    "duration": 90,
+    "imageId": "image_1693392632.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Dad Rocks",
+    "description": "om has just become a father and, along with his wife Elisa, he will learn firsthand how to take care of his daughter. Amid fun and exciting everyday situations, Tom discovers the real meaning of fatherhood. Loosely inspired by the bestseller Dad is Cool, by Marcos Piangers.",
+    "category": "comedy",
+    "year": 2022,
+    "duration": 98,
+    "imageId": "image_1693392633.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Toy Story 2",
+    "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "category": "comedy",
+    "year": 1999,
+    "duration": 92,
+    "imageId": "image_1693392634.jpg"
+  },
+  {
+    "id": 35,
+    "title": "The Suicide Squad",
+    "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "category": "comedy",
+    "year": 2021,
+    "duration": 132,
+    "imageId": "image_1693392635.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Gifted",
+    "description": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
+    "category": "comedy",
+    "year": 2017,
+    "duration": 101,
+    "imageId": "image_1693392636.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Ratatouille",
+    "description": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+    "category": "comedy",
+    "year": 2007,
+    "duration": 111,
+    "imageId": "image_1693392637.jpg"
+  },
+  {
+    "id": 38,
+    "title": "The Boss Baby: Family Business",
+    "description": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
+    "category": "comedy",
+    "year": 2021,
+    "duration": 117,
+    "imageId": "image_1693392638.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Zoey 102",
+    "description": "Pacific Coast Academy alumni return to Malibu for an over-the-top wedding that turns into a high school reunion for the books.",
+    "category": "comedy",
+    "year": 2023,
+    "duration": 101,
+    "imageId": "image_1693392639.jpg"
+  },
+  {
+    "id": 40,
+    "title": "The First Slam Dunk",
+    "description": "Shohoku's “speedster” and point guard, Ryota Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. In his second year of high school, Ryota plays with the Shohoku High School basketball team along with Sakuragi, Rukawa, Akagi, and Mitsui as they take the stage at the Inter-High School National Championship. And now, they are on the brink of challenging the reigning champions, Sannoh Kogyo High School.",
+    "category": "comedy",
+    "year": 2022,
+    "duration": 125,
+    "imageId": "image_1693392640.jpg"
+  }
+]

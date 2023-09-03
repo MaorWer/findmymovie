@@ -1,0 +1,817 @@
+[
+  {
+    "id": 1,
+    "idMovie": 1,
+    "idMaker": 14
+  },
+  {
+    "id": 2,
+    "idMovie": 1,
+    "idMaker": 18
+  },
+  {
+    "id": 3,
+    "idMovie": 1,
+    "idMaker": 4
+  },
+  {
+    "id": 4,
+    "idMovie": 1,
+    "idMaker": 21
+  },
+  {
+    "id": 5,
+    "idMovie": 2,
+    "idMaker": 2
+  },
+  {
+    "id": 6,
+    "idMovie": 2,
+    "idMaker": 4
+  },
+  {
+    "id": 7,
+    "idMovie": 2,
+    "idMaker": 15
+  },
+  {
+    "id": 8,
+    "idMovie": 2,
+    "idMaker": 26
+  },
+  {
+    "id": 9,
+    "idMovie": 2,
+    "idMaker": 1
+  },
+  {
+    "id": 10,
+    "idMovie": 3,
+    "idMaker": 5
+  },
+  {
+    "id": 11,
+    "idMovie": 3,
+    "idMaker": 13
+  },
+  {
+    "id": 12,
+    "idMovie": 3,
+    "idMaker": 15
+  },
+  {
+    "id": 13,
+    "idMovie": 3,
+    "idMaker": 25
+  },
+  {
+    "id": 14,
+    "idMovie": 4,
+    "idMaker": 1
+  },
+  {
+    "id": 15,
+    "idMovie": 4,
+    "idMaker": 29
+  },
+  {
+    "id": 16,
+    "idMovie": 4,
+    "idMaker": 31
+  },
+  {
+    "id": 17,
+    "idMovie": 4,
+    "idMaker": 12
+  },
+  {
+    "id": 18,
+    "idMovie": 5,
+    "idMaker": 2
+  },
+  {
+    "id": 19,
+    "idMovie": 5,
+    "idMaker": 3
+  },
+  {
+    "id": 20,
+    "idMovie": 5,
+    "idMaker": 12
+  },
+  {
+    "id": 21,
+    "idMovie": 5,
+    "idMaker": 20
+  },
+  {
+    "id": 22,
+    "idMovie": 6,
+    "idMaker": 5
+  },
+  {
+    "id": 23,
+    "idMovie": 6,
+    "idMaker": 18
+  },
+  {
+    "id": 24,
+    "idMovie": 6,
+    "idMaker": 19
+  },
+  {
+    "id": 25,
+    "idMovie": 6,
+    "idMaker": 33
+  },
+  {
+    "id": 26,
+    "idMovie": 7,
+    "idMaker": 8
+  },
+  {
+    "id": 27,
+    "idMovie": 7,
+    "idMaker": 13
+  },
+  {
+    "id": 28,
+    "idMovie": 7,
+    "idMaker": 17
+  },
+  {
+    "id": 29,
+    "idMovie": 7,
+    "idMaker": 32
+  },
+  {
+    "id": 30,
+    "idMovie": 8,
+    "idMaker": 8
+  },
+  {
+    "id": 31,
+    "idMovie": 8,
+    "idMaker": 19
+  },
+  {
+    "id": 32,
+    "idMovie": 8,
+    "idMaker": 15
+  },
+  {
+    "id": 33,
+    "idMovie": 8,
+    "idMaker": 31
+  },
+  {
+    "id": 34,
+    "idMovie": 9,
+    "idMaker": 21
+  },
+  {
+    "id": 35,
+    "idMovie": 9,
+    "idMaker": 22
+  },
+  {
+    "id": 36,
+    "idMovie": 9,
+    "idMaker": 15
+  },
+  {
+    "id": 37,
+    "idMovie": 9,
+    "idMaker": 3
+  },
+  {
+    "id": 38,
+    "idMovie": 10,
+    "idMaker": 12
+  },
+  {
+    "id": 39,
+    "idMovie": 10,
+    "idMaker": 14
+  },
+  {
+    "id": 40,
+    "idMovie": 10,
+    "idMaker": 4
+  },
+  {
+    "id": 41,
+    "idMovie": 10,
+    "idMaker": 33
+  },
+  {
+    "id": 42,
+    "idMovie": 11,
+    "idMaker": 15
+  },
+  {
+    "id": 43,
+    "idMovie": 11,
+    "idMaker": 16
+  },
+  {
+    "id": 44,
+    "idMovie": 11,
+    "idMaker": 5
+  },
+  {
+    "id": 45,
+    "idMovie": 11,
+    "idMaker": 21
+  },
+  {
+    "id": 46,
+    "idMovie": 12,
+    "idMaker": 23
+  },
+  {
+    "id": 47,
+    "idMovie": 12,
+    "idMaker": 25
+  },
+  {
+    "id": 48,
+    "idMovie": 12,
+    "idMaker": 18
+  },
+  {
+    "id": 49,
+    "idMovie": 12,
+    "idMaker": 1
+  },
+  {
+    "id": 50,
+    "idMovie": 13,
+    "idMaker": 13
+  },
+  {
+    "id": 51,
+    "idMovie": 13,
+    "idMaker": 15
+  },
+  {
+    "id": 52,
+    "idMovie": 13,
+    "idMaker": 8
+  },
+  {
+    "id": 53,
+    "idMovie": 13,
+    "idMaker": 24
+  },
+  {
+    "id": 54,
+    "idMovie": 14,
+    "idMaker": 15
+  },
+  {
+    "id": 55,
+    "idMovie": 14,
+    "idMaker": 17
+  },
+  {
+    "id": 56,
+    "idMovie": 14,
+    "idMaker": 6
+  },
+  {
+    "id": 57,
+    "idMovie": 14,
+    "idMaker": 28
+  },
+  {
+    "id": 58,
+    "idMovie": 14,
+    "idMaker": 27
+  },
+  {
+    "id": 59,
+    "idMovie": 15,
+    "idMaker": 31
+  },
+  {
+    "id": 60,
+    "idMovie": 15,
+    "idMaker": 32
+  },
+  {
+    "id": 61,
+    "idMovie": 15,
+    "idMaker": 19
+  },
+  {
+    "id": 62,
+    "idMovie": 15,
+    "idMaker": 4
+  },
+  {
+    "id": 63,
+    "idMovie": 16,
+    "idMaker": 9
+  },
+  {
+    "id": 64,
+    "idMovie": 16,
+    "idMaker": 12
+  },
+  {
+    "id": 65,
+    "idMovie": 16,
+    "idMaker": 13
+  },
+  {
+    "id": 66,
+    "idMovie": 16,
+    "idMaker": 29
+  },
+  {
+    "id": 67,
+    "idMovie": 17,
+    "idMaker": 28
+  },
+  {
+    "id": 68,
+    "idMovie": 17,
+    "idMaker": 17
+  },
+  {
+    "id": 69,
+    "idMovie": 17,
+    "idMaker": 13
+  },
+  {
+    "id": 70,
+    "idMovie": 17,
+    "idMaker": 10
+  },
+  {
+    "id": 71,
+    "idMovie": 18,
+    "idMaker": 11
+  },
+  {
+    "id": 72,
+    "idMovie": 18,
+    "idMaker": 12
+  },
+  {
+    "id": 73,
+    "idMovie": 18,
+    "idMaker": 19
+  },
+  {
+    "id": 74,
+    "idMovie": 18,
+    "idMaker": 23
+  },
+  {
+    "id": 75,
+    "idMovie": 19,
+    "idMaker": 24
+  },
+  {
+    "id": 76,
+    "idMovie": 19,
+    "idMaker": 25
+  },
+  {
+    "id": 77,
+    "idMovie": 19,
+    "idMaker": 14
+  },
+  {
+    "id": 78,
+    "idMovie": 19,
+    "idMaker": 7
+  },
+  {
+    "id": 79,
+    "idMovie": 20,
+    "idMaker": 1
+  },
+  {
+    "id": 80,
+    "idMovie": 20,
+    "idMaker": 13
+  },
+  {
+    "id": 81,
+    "idMovie": 20,
+    "idMaker": 19
+  },
+  {
+    "id": 82,
+    "idMovie": 20,
+    "idMaker": 30
+  },
+  {
+    "id": 83,
+    "idMovie": 21,
+    "idMaker": 30
+  },
+  {
+    "id": 84,
+    "idMovie": 21,
+    "idMaker": 24
+  },
+  {
+    "id": 85,
+    "idMovie": 21,
+    "idMaker": 19
+  },
+  {
+    "id": 86,
+    "idMovie": 21,
+    "idMaker": 11
+  },
+  {
+    "id": 87,
+    "idMovie": 22,
+    "idMaker": 12
+  },
+  {
+    "id": 88,
+    "idMovie": 22,
+    "idMaker": 10
+  },
+  {
+    "id": 89,
+    "idMovie": 22,
+    "idMaker": 18
+  },
+  {
+    "id": 90,
+    "idMovie": 22,
+    "idMaker": 31
+  },
+  {
+    "id": 91,
+    "idMovie": 23,
+    "idMaker": 21
+  },
+  {
+    "id": 92,
+    "idMovie": 23,
+    "idMaker": 22
+  },
+  {
+    "id": 93,
+    "idMovie": 23,
+    "idMaker": 13
+  },
+  {
+    "id": 94,
+    "idMovie": 23,
+    "idMaker": 3
+  },
+  {
+    "id": 95,
+    "idMovie": 23,
+    "idMaker": 14
+  },
+  {
+    "id": 96,
+    "idMovie": 24,
+    "idMaker": 15
+  },
+  {
+    "id": 97,
+    "idMovie": 24,
+    "idMaker": 16
+  },
+  {
+    "id": 98,
+    "idMovie": 24,
+    "idMaker": 20
+  },
+  {
+    "id": 99,
+    "idMovie": 24,
+    "idMaker": 6
+  },
+  {
+    "id": 100,
+    "idMovie": 25,
+    "idMaker": 31
+  },
+  {
+    "id": 101,
+    "idMovie": 25,
+    "idMaker": 4
+  },
+  {
+    "id": 102,
+    "idMovie": 25,
+    "idMaker": 18
+  },
+  {
+    "id": 103,
+    "idMovie": 25,
+    "idMaker": 12
+  },
+  {
+    "id": 104,
+    "idMovie": 26,
+    "idMaker": 14
+  },
+  {
+    "id": 105,
+    "idMovie": 26,
+    "idMaker": 15
+  },
+  {
+    "id": 106,
+    "idMovie": 26,
+    "idMaker": 21
+  },
+  {
+    "id": 107,
+    "idMovie": 26,
+    "idMaker": 1
+  },
+  {
+    "id": 108,
+    "idMovie": 27,
+    "idMaker":12
+  },
+  {
+    "id": 109,
+    "idMovie": 27,
+    "idMaker": 2
+  },
+  {
+    "id": 110,
+    "idMovie": 27,
+    "idMaker":3
+  },
+  {
+    "id": 111,
+    "idMovie": 27,
+    "idMaker": 33
+  },
+  {
+    "id": 112,
+    "idMovie": 28,
+    "idMaker": 15
+  },
+  {
+    "id": 113,
+    "idMovie": 28,
+    "idMaker": 18
+  },
+  {
+    "id": 114,
+    "idMovie": 28,
+    "idMaker": 2
+  },
+  {
+    "id": 115,
+    "idMovie": 28,
+    "idMaker": 32
+  },
+  {
+    "id": 116,
+    "idMovie": 29,
+    "idMaker": 33
+  },
+  {
+    "id": 117,
+    "idMovie": 29,
+    "idMaker": 10
+  },
+  {
+    "id": 118,
+    "idMovie": 29,
+    "idMaker": 13
+  },
+  {
+    "id": 119,
+    "idMovie": 29,
+    "idMaker": 1
+  },
+  {
+    "id": 120,
+    "idMovie": 30,
+    "idMaker": 4
+  },
+  {
+    "id": 121,
+    "idMovie": 30,
+    "idMaker": 15
+  },
+  {
+    "id": 122,
+    "idMovie": 30,
+    "idMaker": 14
+  },
+  {
+    "id": 123,
+    "idMovie": 30,
+    "idMaker": 32
+  },
+  {
+    "id": 124,
+    "idMovie": 31,
+    "idMaker":  2
+  },
+  {
+    "id": 125,
+    "idMovie": 31,
+    "idMaker": 23
+  },
+  {
+    "id": 126,
+    "idMovie": 31,
+    "idMaker": 25
+  },
+  {
+    "id": 127,
+    "idMovie": 31,
+    "idMaker": 15
+  },
+  {
+    "id": 128,
+    "idMovie": 32,
+    "idMaker": 15
+  },
+  {
+    "id": 129,
+    "idMovie": 32,
+    "idMaker": 16
+  },
+  {
+    "id": 130,
+    "idMovie": 32,
+    "idMaker": 1
+  },
+  {
+    "id": 131,
+    "idMovie": 32,
+    "idMaker": 21
+  },
+  {
+    "id": 132,
+    "idMovie": 33,
+    "idMaker": 20
+  },
+  {
+    "id": 133,
+    "idMovie": 33,
+    "idMaker":19
+  },
+  {
+    "id": 134,
+    "idMovie": 33,
+    "idMaker": 1
+  },
+  {
+    "id": 135,
+    "idMovie": 33,
+    "idMaker": 5
+  },
+  {
+    "id": 136,
+    "idMovie": 34,
+    "idMaker": 5
+  },
+  {
+    "id": 137,
+    "idMovie": 34,
+    "idMaker":4
+  },
+  {
+    "id": 138,
+    "idMovie": 34,
+    "idMaker": 15
+  },
+  {
+    "id": 139,
+    "idMovie": 34,
+    "idMaker": 31
+  },
+  {
+    "id": 140,
+    "idMovie": 35,
+    "idMaker":32
+  },
+  {
+    "id": 141,
+    "idMovie": 35,
+    "idMaker":21
+  },
+  {
+    "id": 142,
+    "idMovie": 35,
+    "idMaker":11
+  },
+  {
+    "id": 143,
+    "idMovie": 35,
+    "idMaker":14
+  },
+  {
+    "id": 144,
+    "idMovie": 36,
+    "idMaker": 31
+  },
+  {
+    "id": 145,
+    "idMovie": 36,
+    "idMaker": 14
+  },
+  {
+    "id": 146,
+    "idMovie": 36,
+    "idMaker": 16
+  },
+  {
+    "id": 147,
+    "idMovie": 36,
+    "idMaker": 4
+  },
+  {
+    "id": 148,
+    "idMovie": 37,
+    "idMaker": 9
+  },
+  {
+    "id": 149,
+    "idMovie": 37,
+    "idMaker": 14
+  },
+  {
+    "id": 150,
+    "idMovie": 37,
+    "idMaker": 17
+  },
+  {
+    "id": 151,
+    "idMovie": 37,
+    "idMaker": 32
+  },
+  {
+    "id": 152,
+    "idMovie": 38,
+    "idMaker": 8
+  },
+  {
+    "id": 153,
+    "idMovie": 38,
+    "idMaker": 18
+  },
+  {
+    "id": 154,
+    "idMovie": 38,
+    "idMaker": 21
+  },
+  {
+    "id": 155,
+    "idMovie": 38,
+    "idMaker":22
+  },
+  {
+    "id": 156,
+    "idMovie": 39,
+    "idMaker": 32
+  },
+  {
+    "id": 157,
+    "idMovie": 39,
+    "idMaker": 21
+  },
+  {
+    "id": 158,
+    "idMovie": 39,
+    "idMaker": 19
+  },
+  {
+    "id": 159,
+    "idMovie": 39,
+    "idMaker": 2
+  },
+  {
+    "id": 160,
+    "idMovie": 40,
+    "idMaker": 4
+  },
+  {
+    "id": 161,
+    "idMovie": 40,
+    "idMaker": 19
+  },
+  {
+    "id": 162,
+    "idMovie": 40,
+    "idMaker": 29
+  },
+  {
+    "id": 163,
+    "idMovie": 40,
+    "idMaker": 28
+  }
+ ]
